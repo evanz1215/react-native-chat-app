@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <View>
+    <View style={{ paddingTop: 40 }} className="bg-red-500">
       <Text>Home</Text>
     </View>
   );
